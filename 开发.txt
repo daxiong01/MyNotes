@@ -1,0 +1,4 @@
+fun1（）{
+      do xx by user1
+      bug1
+}
