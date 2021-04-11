@@ -1,5 +1,5 @@
 fun1（）{
       do xx by user1
       bug1
-      user2 fix bug(2)
+      user2 feature2 fix bug(2)
 }
